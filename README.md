@@ -44,7 +44,7 @@ Your mission is to find a valid username and password combination to successfull
 
 ### Pre-built Binary
 
-If you prefer using a pre-built executable, download the latest release from the [Releases](https://github.com/yourusername/SimpleCrackMe/releases) page.
+If you prefer using a pre-built executable, download the latest release from the [Releases](https://github.com/randomname124290358349/SimpleCrackMe/releases) page.
 
 ## 💡 Hints
 
